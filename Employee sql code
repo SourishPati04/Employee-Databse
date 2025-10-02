@@ -1,0 +1,12 @@
+/** SQL coding **/
+
+CREATE DATABASE employeeDB;
+
+USE employeeDB;
+
+CREATE TABLE employees (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(50),
+    department VARCHAR(50),
+    salary DOUBLE
+);
