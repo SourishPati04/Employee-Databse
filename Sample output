@@ -1,0 +1,25 @@
+//** Sample output **//
+
+--- Employee Database Menu ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Choose option: 1
+
+Enter Name: John
+Enter Department: IT
+Enter Salary: 50000
+1 employee added.
+
+--- Employee Database Menu ---
+1. Add Employee
+2. View Employees
+3. Update Employee
+4. Delete Employee
+5. Exit
+Choose option: 2
+
+ID   Name    Department    Salary
+1    John    IT           50000.00
